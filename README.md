@@ -57,13 +57,4 @@ Tools:
 
 [Youtube Link](https://www.youtube.com/watch?v=id7XRcEIBvg&ab_channel=StephenBonifacio)
 
----
-### Author
----
 
-#### Stephen Bonifacio
-
-Feel free to connect with me on:
-
-Linkedin: https://www.linkedin.com/in/stephenbonifacio/  
-Twitter: https://twitter.com/Stepanogil  
