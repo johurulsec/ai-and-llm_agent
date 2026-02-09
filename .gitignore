@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+hr_agent_backend_local.py
